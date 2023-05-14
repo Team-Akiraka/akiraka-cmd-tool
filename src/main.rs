@@ -176,7 +176,7 @@ fn main() {
     // Minecraft购买链接：https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj
     // 购买链接更新：https://www.xbox.com/zh-CN/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010
     unsafe { DIR = String::from(Path::new(util::current_dir().as_str()).join(".minecraft").as_path().to_str().unwrap()); }
-    println!("Akiraka Command Tool [Version 0.1.0-dev.20230512]\n(c) Arrokoth233. All rights reserved\n");
+    println!("Akiraka Command Tool [Version 1.0.0-build-20230514]\n(c) Arrokoth233. All rights reserved\n");
     loop {
         print!(">>");
         std::io::stdout().flush().expect("Flush Error!");

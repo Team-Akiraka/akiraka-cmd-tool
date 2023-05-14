@@ -21,8 +21,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "akiraka"
-version = "0.1.0-internal-build-20230512"
+name = "akiraka-cmd"
+version = "1.0.0-build-20230514"
 dependencies = [
  "druid",
  "image",

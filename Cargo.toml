@@ -1,6 +1,6 @@
 [package]
 name = "akiraka-cmd"
-version = "0.1.0-internal-build-20230512"
+version = "1.0.0-build-20230514"
 edition = "2021"
 build = "build.rs"
 
